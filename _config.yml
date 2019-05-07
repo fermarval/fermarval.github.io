@@ -1,26 +1,26 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://brittanychiang.com/
+name: Fernando Marmolejo
+title: Fernando Marmolejo | Software Developer 
+description: Computer engineer working as a software developer
+url: https://fermarval.github.com/
 baseurl: ""
-email: brittany.chiang@gmail.com
-cover: https://brittanychiang.com/img/og.png
-logo: https://brittanychiang.com/img/emojis/technologist.png
-resume: https://brittanychiang.com/resume.pdf
+email: fmarvallejo@gmail.com
+cover: https://fermarval.github.com/img/og.png
+logo: https://fermarval.github.com/img/emojis/technologist.png
+resume: https://fermarval.github.com/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:fmarvallejo@gmail.com
   - title: twitter
-    url: https://twitter.com/bchiang7
+    url: https://twitter.com/femarval
   - title: instagram
-    url: https://instagram.com/bchiang7
+    url: https://instagram.com/femarval
   - title: codepen
-    url: http://codepen.io/bchiang7
+    url: http://codepen.io/fermarval
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/fermarval
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/fmarmolejo
 
 # Build settings
 markdown: kramdown
